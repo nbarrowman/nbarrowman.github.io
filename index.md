@@ -2,7 +2,7 @@
 
 ## vtree
 
-**vtree** is my R package for calculating and drawing what I call *variable trees*. vtree is available on [CRAN](https://cran.r-project.org/package=vtree). For more information, see https://github.com/nbarrowman/vtree
+**vtree** is my R package for calculating and drawing what I call *variable trees*. vtree is available on [CRAN](https://cran.r-project.org/package=vtree). For more information, see the [GitHub page for vtree](https://github.com/nbarrowman/vtree).
 
 ## about
 
