@@ -8,7 +8,7 @@ Here's a short [powerpoint presentation](https://nbarrowman.github.io/vtree%20-%
 
 ## about
 
-For more about me, see personal site [my website](https://nick-barrowman.carrd.co)
+For more about me, see [my personal site](https://nick-barrowman.carrd.co).
 
 
 
