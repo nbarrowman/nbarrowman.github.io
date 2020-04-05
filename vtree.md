@@ -1,5 +1,6 @@
 ---
 title: vtree R package
+project-name: vtree
 ---
 
 ## Introduction to vtree
