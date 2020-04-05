@@ -1,6 +1,6 @@
 ---
 layout: post
-title: vtree
+title: vtree R package
 ---
 
 ## Introduction to vtree
