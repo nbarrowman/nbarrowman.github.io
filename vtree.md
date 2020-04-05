@@ -1,6 +1,7 @@
 ---
 layout: default
 title: vtree R package
+description: a flexible tool for generating variable trees
 project-name: vtree
 ---
 
