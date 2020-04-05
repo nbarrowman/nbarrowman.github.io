@@ -5,8 +5,6 @@ description: a flexible tool for generating variable trees
 project-name: vtree
 ---
 
-[![CRAN](https://cran.r-project.org/package=vtree)](https://cran.r-project.org/package=vtree) [![GitHub](https://github.com/nbarrowman/vtree)](https://github.com/nbarrowman/vtree)
-
 **vtree** is my R package for calculating and drawing what I call *variable trees*. vtree is available on [CRAN](https://cran.r-project.org/package=vtree). For more information, see the [GitHub page for vtree](https://github.com/nbarrowman/vtree).
 
 <img src="images/v1.png" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/t7.png" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/t1.png" width="250">
