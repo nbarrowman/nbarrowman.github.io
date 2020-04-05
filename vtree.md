@@ -1,9 +1,11 @@
 ---
 layout: default
-title: vtree R package
-description: a flexible tool for displaying information about nested subsets of a data frame
+title: vtree
+description: a flexible R package for displaying information about nested subsets of a data frame
 project-name: vtree
 ---
+
+vtree calculates and draws *variable trees* like the one below:
 
 <p style="text-align:center;"><img src="images/v1.png" width="300"></p>
 
