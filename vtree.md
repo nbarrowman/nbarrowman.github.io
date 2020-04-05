@@ -1,7 +1,7 @@
 ---
 layout: default
 title: vtree R package
-description: a flexible tool for generating variable trees
+description: a flexible tool for displaying information about nested subsets of a data frame
 project-name: vtree
 ---
 
