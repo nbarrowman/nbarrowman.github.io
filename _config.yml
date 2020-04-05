@@ -12,5 +12,6 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-
+exclude:
+  - index.md
 theme: jekyll-theme-cayman
