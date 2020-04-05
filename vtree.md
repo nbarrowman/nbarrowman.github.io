@@ -5,7 +5,7 @@ description: a flexible tool for generating variable trees
 project-name: vtree
 ---
 
-<img src="images/v1.png" width="300">
+<p style="text-align:center;"><img src="images/v1.png" width="300"></p>
 
 ## Powerpoint presentation
 
