@@ -2,6 +2,7 @@
 layout: default
 title: vtree
 description: a flexible R package for displaying nested subsets of a data frame
+buttons: TRUE
 project-name: vtree
 ---
 
