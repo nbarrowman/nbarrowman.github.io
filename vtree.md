@@ -5,7 +5,7 @@ description: a flexible tool for generating variable trees
 project-name: vtree
 ---
 
-<img src="images/v1.png" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/t7.png" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/t1.png" width="250">
+<img src="images/v1.png" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/t7.png" width="170">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/t1.png" width="270">
 
 
 Here's a short [powerpoint presentation](https://nbarrowman.github.io/vtree%20-%20An%20R%20Package%20for%20Calculating%20and%20Drawing%20Variable%20Trees.pptx) (10.4 MB) that I gave at the Canadian Research Software Conference in Montreal on May 28, 2019.
