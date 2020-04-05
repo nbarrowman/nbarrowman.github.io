@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Nick Barrowman
+title: stuff
 description: 
 buttons: FALSE
 ---
-
-## stuff
 
 [**vtree**](vtree.html) is my R package for calculating and drawing what I call *variable trees*.
 
