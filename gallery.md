@@ -11,5 +11,5 @@ buttons: FALSE
 
 <p style="text-align:center;"><img src="images/CONSORTstyle.png" width="300"></p>
 
-<p style="text-align:center;"><img src="images/CONSORTstyle2.png" width="300"></p>
+<p style="text-align:center;"><img src="images/CONSORTstyle2.png"></p>
 
