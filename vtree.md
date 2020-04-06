@@ -6,9 +6,11 @@ buttons: TRUE
 project-name: vtree
 ---
 
-vtree calculates and draws *variable trees* like the one below:
+vtree is used to calculate and draw *variable trees* like the one below:
 
 <p style="text-align:center;"><img src="images/v1.png" width="300"></p>
+
+All kinds of variable trees can be created. See the (gallery)[gallery.html] for more.
 
 ## Powerpoint presentation
 
