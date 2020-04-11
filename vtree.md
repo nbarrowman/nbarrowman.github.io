@@ -41,3 +41,5 @@ vtree is used to calculate and draw *variable trees* like the one below:
 ## Powerpoint presentation
 
 Here's a short [powerpoint presentation](https://nbarrowman.github.io/vtree%20-%20An%20R%20Package%20for%20Calculating%20and%20Drawing%20Variable%20Trees.pptx) (10.4 MB) on vtree that was presented at the Canadian Research Software Conference in Montreal on May 28, 2019.
+
+<p style="text-align:center;">by <a href="https://nick-barrowman.carrd.co">Nick Barrowman</a>
