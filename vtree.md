@@ -16,7 +16,7 @@ vtree is used to calculate and draw *variable trees* like the one below:
 
 ## Vignette
 
-The <a href="https://cran.r-project.org/web/packages/vtree/vignettes/vtree.html">vignette</a> provides a comprehensive introduction to vtree.
+<a href="https://cran.r-project.org/web/packages/vtree/vignettes/vtree.html"><img src="images/vignette4.0.0Thumbnail.png" width="560"></a>
 
 ## Cheatsheet
 
