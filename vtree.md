@@ -9,7 +9,10 @@ project-name: vtree
 vtree is used to calculate and draw *variable trees* like the one below:
 
 <p style="text-align:center;"><img src="images/v1.png" width="300"></p>
+
 ## Gallery
+
+<img src="images/gallery.png" width="560">
 
 All kinds of variable trees can be created. See the [gallery](gallery.html) for more.
 
