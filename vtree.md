@@ -6,9 +6,7 @@ buttons: TRUE
 project-name: vtree
 ---
 
-vtree is used to calculate and draw *variable trees* like the one below:
-
-<img src="images/vertical.png" width="600">
+<p style="text-align:center;"><img src="images/vertical.png" width="600"></p>
 
 ## Gallery
 
@@ -44,4 +42,4 @@ Here's a short [powerpoint presentation](https://nbarrowman.github.io/vtree%20-%
 
 <br>
 
-<p style="text-align:center;">Designed by <a href="https://nick-barrowman.carrd.co">Nick Barrowman</a>
+<p style="text-align:center;">Designed by <a href="https://nick-barrowman.carrd.co">Nick Barrowman</a></p>
