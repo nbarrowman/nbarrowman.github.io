@@ -44,4 +44,8 @@ Here's a short [powerpoint presentation](https://nbarrowman.github.io/vtree%20-%
 
 <br>
 
-<p style="text-align:center;">Designed by <a href="https://nick-barrowman.carrd.co">Nick Barrowman</a></p>
+<p style="text-align:center;">
+vtree is open source software<br>
+designed by <a href="https://nick-barrowman.carrd.co">Nick Barrowman</a><br>
+with contributions from Sebastian Gatscha
+</p>
