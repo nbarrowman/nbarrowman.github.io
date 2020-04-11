@@ -8,7 +8,7 @@ project-name: vtree
 
 vtree is used to calculate and draw *variable trees* like the one below:
 
-<p style="text-align:center;"><img src="images/v1.png" width="300"></p>
+<p style="text-align:center;"><img src="images/vertical.png" width="300"></p>
 
 ## Gallery
 
