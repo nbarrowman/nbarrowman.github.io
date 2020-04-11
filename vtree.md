@@ -8,6 +8,8 @@ project-name: vtree
 
 <p style="text-align:center;"><img src="images/vertical.png" width="600"></p>
 
+<hr>
+
 ## Gallery
 
 <a href="gallery.html"><img src="images/gallery.png" width="560"></a>
