@@ -12,9 +12,7 @@ vtree is used to calculate and draw *variable trees* like the one below:
 
 ## Gallery
 
-<img src="images/gallery.png" width="560">
-
-All kinds of variable trees can be created. See the [gallery](gallery.html) for more.
+<a href="gallery.html"><img src="images/gallery.png" width="560"></a>
 
 ## Vignette
 
