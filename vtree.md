@@ -21,7 +21,7 @@ The <a href="https://cran.r-project.org/web/packages/vtree/vignettes/vtree.html"
 
 ### Version 3
 
-<img src="images/vtreeCheatsheet3.0.0thumbnail.png" width="560" style="box-shadow: 5px 10px #C8C8C8; border: 1px solid black;"><br>
+<img src="images/vtreeCheatsheet3.0.0thumbnail.png" width="560" style="box-shadow: 5px 5px #F5F5F5; border: 1px solid black;"><br>
 <a href="https://github.com/rstudio/cheatsheets/raw/master/vtree.pdf">Download pdf</a>
 
 ## Short tutorial videos on YouTube
