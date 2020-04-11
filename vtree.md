@@ -9,7 +9,6 @@ project-name: vtree
 vtree is used to calculate and draw *variable trees* like the one below:
 
 <p style="text-align:center;"><img src="images/v1.png" width="300"></p>
-
 ## Gallery
 
 All kinds of variable trees can be created. See the [gallery](gallery.html) for more.
@@ -19,6 +18,10 @@ All kinds of variable trees can be created. See the [gallery](gallery.html) for 
 The <a href="https://cran.r-project.org/web/packages/vtree/vignettes/vtree.html">vignette</a> provides a comprehensive introduction to vtree.
 
 ## Cheatsheet
+
+### Version 3
+
+<a href="https://github.com/rstudio/cheatsheets/raw/master/vtree.pdf"><p style="text-align:center;"><img src="images/vtreeCheatsheet3.0.0thumbnail.png" width="300"></p></a>
 
 A <a href="https://github.com/rstudio/cheatsheets/raw/master/vtree.pdf">cheatsheet</a> (pdf) is available.
 
