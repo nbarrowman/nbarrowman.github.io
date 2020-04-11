@@ -19,6 +19,11 @@ The <a href="https://cran.r-project.org/web/packages/vtree/vignettes/vtree.html"
 
 ## Cheatsheet
 
+### Version 4
+
+<img src="images/vtreeCheatsheet4.0.0thumbnail.png" width="560" style="box-shadow: 7px 7px #E0E0E0; border: 1px solid black;"><br>
+<a href="cheatsheets/vtree_cheatsheet_4.0.0.pdf">Download pdf</a>
+
 ### Version 3
 
 <img src="images/vtreeCheatsheet3.0.0thumbnail.png" width="560" style="box-shadow: 7px 7px #E0E0E0; border: 1px solid black;"><br>
