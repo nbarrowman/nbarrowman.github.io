@@ -60,6 +60,15 @@ A short [powerpoint](https://nbarrowman.github.io/vtree%20-%20An%20R%20Package%2
 <small>
 vtree is open source software<br>
 designed by <a href="https://nick-barrowman.carrd.co">Nick Barrowman</a><br>
-with contributions from Sebastian Gatscha
+with contributions from Sebastian Gatscha.<br>
+<br>
+vtree is an <a href="https://www.r-project.org/">R</a> package
+built on open-source software including:
+<a href="http://rich-iannone.github.io/DiagrammeR/">DiagrammeR</a>,
+<a href="https://www.graphviz.org/">Graphviz</a>,
+<a href="https://www.htmlwidgets.org/">htmlwidgets</a>, 
+<a href="https://rstudio.com/products/shiny/">Shiny</a>,
+<a href="https://github.com/ariutta/svg-pan-zoom">[svg-pan-zoom</a>.
+
 </small>
 </p>
