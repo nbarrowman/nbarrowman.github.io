@@ -38,6 +38,10 @@ vtree is used to generate <i>variable trees</i>, like the one above.
 ### Pruning
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iwa5yVG_AIA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Tutorials on RPubs
+
+<a href="https://rpubs.com/nbarrowman/CONSORT-style">CONSORT-style diagrams</a>
+
 ## Powerpoint presentation
 
 Here's a short [powerpoint](https://nbarrowman.github.io/vtree%20-%20An%20R%20Package%20for%20Calculating%20and%20Drawing%20Variable%20Trees.pptx) (10.4 MB) about vtree that was presented at the Canadian Research Software Conference in Montreal on May 28, 2019.
