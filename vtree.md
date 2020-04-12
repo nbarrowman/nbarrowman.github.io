@@ -8,7 +8,9 @@ project-name: vtree
 
 <p style="text-align:center;">
 <img src="images/vertical.png" width="600">
-  
+
+<br>
+
 vtree is used to generate <i>variable trees</i>, like the one above.
 </p>
 
