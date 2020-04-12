@@ -68,7 +68,7 @@ built on open-source software including:
 <a href="https://www.graphviz.org/">Graphviz</a>,
 <a href="https://www.htmlwidgets.org/">htmlwidgets</a>, 
 <a href="https://rstudio.com/products/shiny/">Shiny</a>,
-<a href="https://github.com/ariutta/svg-pan-zoom">[svg-pan-zoom</a>.
-
+and
+<a href="https://github.com/ariutta/svg-pan-zoom">svg-pan-zoom</a>.
 </small>
 </p>
