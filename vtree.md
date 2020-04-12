@@ -6,7 +6,12 @@ buttons: TRUE
 project-name: vtree
 ---
 
-<p style="text-align:center;"><img src="images/vertical.png" width="600"></p>
+<p style="text-align:center;">
+<img src="images/vertical.png" width="600">
+  
+vtree is used to generate <i>variable trees</i>, like the one above.
+</p>
+
 
 <hr>
 
