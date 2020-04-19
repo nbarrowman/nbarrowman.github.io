@@ -38,6 +38,10 @@ vtree is used to generate <i>variable trees</i>, like the one above.
 ### Pruning
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iwa5yVG_AIA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### CONSORT-style flow diagrams
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-gOw6es-1Xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Tutorials
 
 <a href="https://rpubs.com/nbarrowman/CONSORT-style">CONSORT-style diagrams</a>
