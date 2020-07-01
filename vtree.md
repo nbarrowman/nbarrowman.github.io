@@ -6,11 +6,6 @@ buttons: TRUE
 project-name: vtree
 ---
 
-[![CRAN
-status](http://www.r-pkg.org/badges/version/vtree)](https://cran.r-project.org/package=vtree)
-[![CRAN
-downloads](https://cranlogs.r-pkg.org/badges/grand-total/vtree)](https://cranlogs.r-pkg.org/badges/grand-total/vtree)
-
 <p style="text-align:center;">
 <img src="images/vertical.png" width="600">
 
