@@ -27,8 +27,8 @@ vtree is used to generate <i>variable trees</i>, like the one above.
 
 ## Cheatsheet
 
-<img src="images/vtreeCheatsheet4.0.0thumbnail.png" width="560" style="box-shadow: 7px 7px #E0E0E0; border: 1px solid black;"><br>
-<a href="cheatsheets/vtree_cheatsheet_4.0.0.pdf">Download pdf</a>
+<img src="images/vtreeCheatsheet5.0.0thumbnail.png" width="560" style="box-shadow: 7px 7px #E0E0E0; border: 1px solid black;"><br>
+<a href="cheatsheets/vtree_cheatsheet_5.0.0.pdf">Download pdf</a>
 
 ## Short tutorial videos
 
