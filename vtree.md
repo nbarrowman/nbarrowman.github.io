@@ -68,7 +68,7 @@ with contributions from Sebastian Gatscha.<br>
 <br>
 vtree is an <a href="https://www.r-project.org/">R</a> package
 built on open-source software including:
-<a href="http://rich-iannone.github.io/DiagrammeR/">DiagrammeR</a>,
+<a href="https://rich-iannone.github.io/DiagrammeR/">DiagrammeR</a>,
 <a href="https://www.graphviz.org/">Graphviz</a>,
 <a href="https://www.htmlwidgets.org/">htmlwidgets</a>, 
 <a href="https://rstudio.com/products/shiny/">Shiny</a>,
