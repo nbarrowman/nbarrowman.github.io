@@ -34,7 +34,7 @@ My colleague, Richard Webster, and I recently submitted a manuscript about vtree
 ## Cheatsheet
 
 <img src="images/vtreeCheatsheet5.0.0thumbnail.png" width="560" style="box-shadow: 7px 7px #E0E0E0; border: 1px solid black;"><br>
-<a href="cheatsheets/vtree_cheatsheet_5.0.0.pdf">Download pdf</a>
+<a href="cheatsheets/vtree_cheatsheet_5.4.6.pdf">Download pdf</a>
 
 ## Short tutorial videos
 
