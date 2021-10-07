@@ -29,7 +29,7 @@ My colleague, Richard Webster, and I recently submitted a manuscript about vtree
 
 ## Vignette
 
-<a href="https://cran.r-project.org/web/packages/vtree/vignettes/vtree.html"><img src="images/vignette5.0.0Thumbnail.png" width="300" style="padding: 15px; border: 1px solid #D8D8D8;"></a>
+<a href="https://cran.r-project.org/web/packages/vtree/vignettes/vtree.html"><img src="images/vignette5.4.6Thumbnail.png" width="300" style="padding: 15px; border: 1px solid #D8D8D8;"></a>
 
 ## Cheatsheet
 
