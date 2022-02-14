@@ -5,7 +5,7 @@ description:
 buttons: FALSE
 ---
 
-[**vtree**](vtree.html) is my R package for calculating and drawing what I call *variable trees*.
+[**vtree**](vtree.html) is my R package for calculating and drawing *variable trees*.
 
 ## about
 
