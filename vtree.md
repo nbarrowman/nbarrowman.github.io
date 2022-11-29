@@ -21,6 +21,8 @@ vtree is used to generate <i>variable trees</i>, like the one above.
 
 A comprehensive presentation (based on the vtree vignette).
 
+<a href="intro_to_vtree.html"><img src="images/intro_to_vtree.png" width="560" style="box-shadow: 7px 7px #E0E0E0; border: 1px solid black;"></a>
+
 ## Preprint
 
 My colleague, Richard Webster, and I recently submitted a manuscript about vtree to the Journal of Statistical Software. A preprint titled <a href="http://arxiv.org/abs/2010.13252">Exploring data subsets with vtree</a> is available.
