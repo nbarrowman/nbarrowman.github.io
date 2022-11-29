@@ -21,7 +21,7 @@ vtree is used to generate <i>variable trees</i>, like the one above.
 
 A comprehensive presentation (based on the vtree vignette).
 
-<a href="intro_to_vtree.html"><img src="images/intro_to_vtree.png" width="560" style="box-shadow: 7px 7px #E0E0E0; border: 1px solid black;"></a>
+<a href="intro_to_vtree.html"><img src="images/intro_to_vtree.png" width="560" style="box-shadow: 2px 2px #E0E0E0; border: 1px solid black;"></a>
 
 ## Preprint
 
